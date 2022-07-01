@@ -1,0 +1,2 @@
+# AnaliyzingPoliceActivityPandas
+From DataCamp - Stanford Open Policing Project dataset Interactive Course Analyzing Police Activity with pandas Exploring the Stanford Open Policing Project dataset and analysing the impact of gender on police behaviour. During the challenge, will gain more practice cleaning messy data, creating visualizations, combining and reshaping datasets, and manipulating time series data. Analyzing Police Activity with pandas will give me valuable experience analyzing a dataset from start to finish, preparing me for my data science career!
